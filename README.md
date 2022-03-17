@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/duangrudee-m/](https://www.linkedin.com/in/duangrudee-m/)
 
-- ⚡ Fun fact **I have pet fish**
+- ⚡ Fun fact **I have like to paint**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
