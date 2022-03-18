@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kim</h1>
 <h3 align="center">A passionate web developer from Earth</h3>
 
-- 🔭 I’m currently working on [TraQ](https://www.traq.info/)
+- 🔭 I’m currently learning React
 
 - 📫 How to reach me **blufairie888@gmail.com**
 
