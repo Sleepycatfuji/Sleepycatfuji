@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently learning React
 
-- 📫 How to reach me **blufairie888@gmail.com**
+- 📫 Reach me **blufairie888@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/duangrudee-m/](https://www.linkedin.com/in/duangrudee-m/)
+- 📄 More on my work experience [https://www.linkedin.com/in/duangrudee-m/](https://www.linkedin.com/in/duangrudee-m/)
 
 - ⚡ Fun fact **I have like to paint**
 
