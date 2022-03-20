@@ -9,7 +9,7 @@
 
 - 🏅 Portfolio [https://troopl.com/sleepycatfuji](https://troopl.com/sleepycatfuji)
 
-- ⚡ Fun fact **I have like to paint**
+- ⚡ Fun fact **I like to paint**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
