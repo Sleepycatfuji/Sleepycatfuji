@@ -7,6 +7,8 @@
 
 - 📄 More on my work experience [https://www.linkedin.com/in/duangrudee-m/](https://www.linkedin.com/in/duangrudee-m/)
 
+- 🏅 Portfolio (https://troopl.com/sleepycatfuji)
+
 - ⚡ Fun fact **I have like to paint**
 
 <h3 align="left">Connect with me:</h3>
