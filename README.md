@@ -5,11 +5,11 @@
 
 - 📫 Reach me **blufairie888@gmail.com**
 
-- 📄 More on my work experience [https://www.linkedin.com/in/duangrudee-m/](https://www.linkedin.com/in/duangrudee-m/)
+- 🌝 Check my Linkedin [https://www.linkedin.com/in/duangrudee-m/](https://www.linkedin.com/in/duangrudee-m/)
 
-- 🏅 Portfolio [https://troopl.com/sleepycatfuji](https://troopl.com/sleepycatfuji)
+- 🌟 Portfolio [http://www.kmethakullachat.me/](http://www.kmethakullachat.me/)
 
-- ⚡ Fun fact **I like to paint**
+- ⚡ Fun fact **I like to paint** 🖌️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
