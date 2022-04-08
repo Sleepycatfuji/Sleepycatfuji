@@ -1,4 +1,4 @@
-<h1 align="center"> สวัสดีคะ 🍻 </h1>
+<h1 align="center"> Hello 🍻 </h1>
 <h3 align="center">💮 A passionate web developer from Earth, based in Japan 💮 </h3>
 
 - 🔭 I’m currently learning React
@@ -9,7 +9,7 @@
 
 - 🌟 Portfolio [http://www.kmethakullachat.me/](http://www.kmethakullachat.me/)
 
-- ⚡ Fun fact **I like to paint** 🖌️
+- ⚡ Fun fact 🇹🇭  🐟  🖌️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
