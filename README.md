@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kim 🍻 </h1>
+<h1 align="center"> สวัสดีคะ 🍻 </h1>
 <h3 align="center">💮 A passionate web developer from Earth, based in Japan 💮 </h3>
 
 - 🔭 I’m currently learning React
