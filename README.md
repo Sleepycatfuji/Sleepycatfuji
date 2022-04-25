@@ -1,9 +1,7 @@
 <h1 align="center"> Hello 🍻 </h1>
 <h3 align="center">💮 A passionate web developer from Earth, based in Japan 💮 </h3>
 
-- 🔭 Trying to find the best recipe for home-made peanut butter.
-
-- 📫 Reach me **blufairie888@gmail.com**
+- 🌟 Trying to help Nick make his AVC App a reality [https://github.com/Autism-AVC]
 
 - 🌝 Check my Linkedin [https://www.linkedin.com/in/duangrudee-m/](https://www.linkedin.com/in/duangrudee-m/)
 
