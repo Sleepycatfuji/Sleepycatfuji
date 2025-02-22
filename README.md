@@ -1,5 +1,5 @@
 <h1 align="center"> Hello 🍻 </h1>
-<h3 align="center">💮 A passionate web developer from Earth, based in Japan 💮 </h3>
+<h3 align="center">💮 Technical Product Manager with background in Project Management and Sales based in Japan 💮 </h3>
 
 - 🌝 Check my Linkedin [https://www.linkedin.com/in/duangrudee-m/](https://www.linkedin.com/in/duangrudee-m/)
 
